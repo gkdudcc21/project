@@ -3,3 +3,6 @@
 
 ## sourcetree 사용하기
 - GUL로 add, commit, push, pull 하기
+
+## VS Code
+- GUL로 add, commit, push, pull 하기
